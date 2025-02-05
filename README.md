@@ -3,10 +3,10 @@
 This project analyzes and compares vehicle fuel efficiency between 2008 and 2018 using Python and Jupyter notebooks. The analysis focuses on determining improvements in fuel economy over the decade.
 
 ## Tools and Libraries:
-- Python: Core programming language for data processing.
-- Jupyter Notebooks: Interactive environment for writing and visualizing code.
-- Numpy and Pandas: Data manipulation, cleaning, and analysis.
-- Matplotlib: Data visualization through plots and graphs.
+- **Python:** Core programming language for data processing.
+- **Jupyter Notebooks:** Interactive environment for writing and visualizing code.
+- **Numpy and Pandas:** Data manipulation, cleaning, and analysis.
+- **Matplotlib:** Data visualization through plots and graphs.
 
 ## Data:
 - Two CSV datasets representing vehicle data from 2008 and 2018.
