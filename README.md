@@ -1,6 +1,6 @@
 # Fuel Economy Data Analysis 
 
-This project analyzes and compares vehicle fuel efficiency between 2008 and 2018 using Python and Jupyter notebooks. The analysis focuses on determining improvements in fuel economy over the decade.
+This project analyzes and compares vehicle fuel efficiency between 2008 and 2018 using Python and Jupyter notebooks. The analysis focuses on determining improvements in fuel economy over the course of the decade.
 
 ## Tools and Libraries:
 - **Python:** Core programming language for data processing.
